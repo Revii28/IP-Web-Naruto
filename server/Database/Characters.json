@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Naruto Uzumaki",
+      "abilities": "Shadow Clone Technique, Rasengan, Sage Mode",
+      "status": "Alive",
+      "background": "Jinchuriki of the Nine-Tails",
+      "userId": 1,
+      "villageId": 1
+    },
+    {
+      "name": "Sasuke Uchiha",
+      "abilities": "Chidori, Sharingan, Susanoo",
+      "status": "Alive",
+      "background": "Last survivor of the Uchiha clan",
+      "userId": 1,
+      "villageId": 1
+    },
+    {
+      "name": "Sakura Haruno",
+      "abilities": "Medical Ninjutsu, Super Strength",
+      "status": "Alive",
+      "background": "Member of Team 7",
+      "userId": 1,
+      "villageId": 1
+    },
+    {
+      "name": "Kakashi Hatake",
+      "abilities": "Sharingan, Lightning Blade, Kamui",
+      "status": "Alive",
+      "background": "Former Hokage of Konoha",
+      "userId": 1,
+      "villageId": 1
+    },
+    {
+      "name": "Gaara",
+      "abilities": "Sand Manipulation, Shukaku's Power",
+      "status": "Alive",
+      "background": "Former Kazekage of Sunagakure",
+      "userId": 1,
+      "villageId": 2
+    },
+    {
+      "name": "Jiraiya",
+      "abilities": "Toad Sage Mode, Rasengan, Summoning Jutsu",
+      "status": "Deceased",
+      "background": "Legendary Sannin",
+      "userId": 1,
+      "villageId": 1
+    },
+    {
+      "name": "Orochimaru",
+      "abilities": "Snake Summoning, Body Replacement Technique",
+      "status": "Alive",
+      "background": "Former member of the Legendary Sannin",
+      "userId": 1,
+      "villageId": 1
+    },
+    {
+      "name": "Minato Namikaze",
+      "abilities": "Flying Thunder God Technique, Rasengan",
+      "status": "Deceased",
+      "background": "Fourth Hokage of Konoha",
+      "userId": 1,
+      "villageId": 1
+    },
+    {
+      "name": "Itachi Uchiha",
+      "abilities": "Sharingan, Tsukuyomi, Amaterasu",
+      "status": "Deceased",
+      "background": "Former Anbu Captain",
+      "userId": 1,
+      "villageId": 1
+    },
+    {
+      "name": "Hinata Hyuga",
+      "abilities": "Byakugan, Gentle Fist Technique",
+      "status": "Alive",
+      "background": "Heiress of the Hyuga Clan",
+      "userId": 1,
+      "villageId": 1
+    }
+  ]
+  

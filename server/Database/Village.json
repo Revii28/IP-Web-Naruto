@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Konoha",
+      "leader": "Hokage",
+      "history": "Founded by Hashirama Senju and Madara Uchiha"
+    },
+    {
+      "id": 2,
+      "name": "Sunagakure",
+      "leader": "Kazekage",
+      "history": "Located in the Land of Wind"
+    },
+    {
+      "id": 3,
+      "name": "Kirigakure",
+      "leader": "Mizukage",
+      "history": "Known for its strong shinobi and mist techniques"
+    },
+    {
+      "id": 4,
+      "name": "Iwagakure",
+      "leader": "Tsuchikage",
+      "history": "Located in the Land of Earth"
+    },
+    {
+      "id": 5,
+      "name": "Kumogakure",
+      "leader": "Raikage",
+      "history": "Known for its strong lightning release techniques"
+    },
+    {
+      "id": 6,
+      "name": "Amegakure",
+      "leader": "Leader of the Village Hidden in the Rain",
+      "history": "Known for its constant rain and skilled shinobi"
+    },
+    {
+      "id": 7,
+      "name": "Takigakure",
+      "leader": "Leader of the Village Hidden in the Waterfall",
+      "history": "Located in the Land of Water"
+    },
+    {
+      "id": 8,
+      "name": "Yukigakure",
+      "leader": "Snow Daimyō",
+      "history": "Known for its harsh winter conditions and strong shinobi"
+    },
+    {
+      "id": 9,
+      "name": "Hoshigakure",
+      "leader": "Hoshikage",
+      "history": "Located in the Land of Stars"
+    },
+    {
+      "id": 10,
+      "name": "Ibukigakure",
+      "leader": "Leader of the Village Hidden in the Deep Forest",
+      "history": "Known for its dense forests and skilled wood release techniques"
+    }
+  ]
+  

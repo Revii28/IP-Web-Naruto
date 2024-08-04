@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(135deg, #FFB200, #EB5B00,#E4003A,#B60071);
+}
+
+.container-fluid {
+  padding: 20px;
+}
+
+h2 {
+  color: #fff;
+}

@@ -1,0 +1,7 @@
+.akatsuki-background {
+  background-image: url("/path/to/akatsuki-background.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding-top: 1rem;
+}

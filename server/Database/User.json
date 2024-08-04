@@ -1,0 +1,24 @@
+[
+    {
+      "username": "revi",
+      "email": "reviAdmin@mail.com",
+      "password": "123456",
+      "role": "Admin",
+      "phoneNumber": "08123456789",
+      "address": "123 Main St, Anytown",
+      "image": "profile_image_url_here",
+      "villageId": 1,
+      "isPremium": true
+    },
+    {
+      "username": "revi123",
+      "email": "reviUser@mail.com",
+      "password": "123456",
+      "role": "User",
+      "phoneNumber": "08987654321",
+      "address": "456 Oak Ave, Othertown",
+      "image": "profile_image_url_here",
+      "villageId": 2,
+      "isPremium": false
+    }
+  ]
